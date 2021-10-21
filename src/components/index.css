@@ -1,0 +1,8 @@
+.Options>button {
+    background: rgb(146, 255, 255);
+    margin: 1em;
+    font-size: large;
+  }
+  .Options>button:hover{
+    background: rgb(219, 141, 255);
+  }
