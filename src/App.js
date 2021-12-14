@@ -2,7 +2,6 @@ import React from 'react';
 import './App.css';
 import Options from './components/options/Options';
 import {
-  BrowserRouter as Router,
   Switch,
   Route,
 } from 'react-router-dom';
@@ -24,3 +23,4 @@ function App() {
 }
 
 export default App;
+//* HkF7SYXB56ZfsurO5XntcAMYo8E98Su3IY44fiXV
